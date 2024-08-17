@@ -44,4 +44,4 @@ Allow users to save and share generated information.
 Explore the use of voice input and output for accessibility.
 
 <h2> DEMO VIDEO </h2>
- <video src="https://youtu.be/lZ6aZavAYWM?si=0rLanRf519HZg_Ae" width="352" height="720"></video>
+ <video src="https://github.com/priyanshupaikra/Generative_AI_Based_Disease_Info_Gen/blob/main/youtube%20video%20in%20github%20repo.mp4" width="352" height="720"></video>
