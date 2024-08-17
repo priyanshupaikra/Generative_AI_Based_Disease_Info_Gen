@@ -44,4 +44,4 @@ Allow users to save and share generated information.
 Explore the use of voice input and output for accessibility.
 
 <h2> DEMO VIDEO </h2>
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=lZ6aZavAYWM" title="Generative AI Based Disease Info Gen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lZ6aZavAYWM?si=LF8mCNcN8bWZEf8H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
