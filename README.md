@@ -42,6 +42,3 @@ Incorporate medical knowledge graphs to improve response accuracy and relevance.
 Implement a fact-checking mechanism to verify the information provided by the model.
 Allow users to save and share generated information.
 Explore the use of voice input and output for accessibility.
-
-<h2> DEMO VIDEO </h2>
- <video src="https://github.com/priyanshupaikra/Generative_AI_Based_Disease_Info_Gen/blob/main/youtube%20video%20in%20github%20repo.mp4" width="352" height="720"></video>
