@@ -42,3 +42,6 @@ Incorporate medical knowledge graphs to improve response accuracy and relevance.
 Implement a fact-checking mechanism to verify the information provided by the model.
 Allow users to save and share generated information.
 Explore the use of voice input and output for accessibility.
+
+<h2> DEMO VIDEO </h2>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=lZ6aZavAYWM" title="Generative AI Based Disease Info Gen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
