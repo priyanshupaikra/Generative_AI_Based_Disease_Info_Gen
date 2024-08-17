@@ -44,6 +44,4 @@ Allow users to save and share generated information.
 Explore the use of voice input and output for accessibility.
 
 <h2> DEMO VIDEO </h2>
-<video width="320" height="240" controls>
-  <source src="youtube video in github repo.mp4" type="video/mp4">
- </video>
+ <video src="https://youtu.be/lZ6aZavAYWM?si=0rLanRf519HZg_Ae" width="352" height="720"></video>
