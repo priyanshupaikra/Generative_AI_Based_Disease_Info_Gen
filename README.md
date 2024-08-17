@@ -42,3 +42,5 @@ Incorporate medical knowledge graphs to improve response accuracy and relevance.
 Implement a fact-checking mechanism to verify the information provided by the model.
 Allow users to save and share generated information.
 Explore the use of voice input and output for accessibility.
+
+Demo Video YouTube Link - https://youtu.be/lZ6aZavAYWM?si=yU-O4T-IQc2W6QmM
