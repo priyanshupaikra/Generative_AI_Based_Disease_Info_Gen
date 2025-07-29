@@ -1,6 +1,6 @@
 # Generative_AI_Based_Disease_Info_Gen
 Building a Gemini-Powered Health Information Application with Streamlit
-Introduction
+# Introduction
 This article delves into the creation of a health information application leveraging the power of Google's Gemini language model and the user-friendly Streamlit framework. The application aims to provide users with comprehensive information about diseases, including symptoms, prevention measures, treatment options, and the disease's progression within the body.
 
 Core Components and Functionality
